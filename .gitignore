@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js
+.next/
+out/
+build/
+
+# Production
+dist/
+dist-ssr/
+
+# Mobile application builds (Android/iOS output)
+base.apk
+base.zip
+*.apk
+*.aab
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+build-err.log
+build-output.log
+build-output2.log
+err.txt
+
+# Local Env files (API keys and secrets ALWAYS ignored)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+
+# Editor config
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.vs/
+*.suo
+*.sln
+*.swc
+*.swp
+
+# v0 files (From existing project)
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
