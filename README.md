@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/blood-group-collection.git
+    git clone https://github.com/tejaspatel2255/Blood-Group-Collection
     cd blood-group-collection
     ```
 
